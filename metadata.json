@@ -1,0 +1,6 @@
+{
+  "name": "ScrapeSmith",
+  "description": "AI-powered structured web data extractor with automatic JSON schema generation, URL Context reading, Google Search fallback, inline editing, and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
